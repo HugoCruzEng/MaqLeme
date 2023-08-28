@@ -1,2 +1,4 @@
-m=3;
-m=2;
+%Giroscope parameter
+H=1;
+Fg=1;
+Js=1;
