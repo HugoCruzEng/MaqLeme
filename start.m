@@ -15,3 +15,5 @@ mrudder=1000; %massa Rudder em kg
 %Table 4: List of actuator and gyroscope parameters
 Res1=1;
 Res2=1;
+
+%Table 5
