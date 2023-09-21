@@ -4,7 +4,7 @@ Fg=1;
 Js=1;
 
 %Table 3: List of ship design parameters 
-Izz=5500; %inercia
+Izz=5500; %inercia do leme
 c=1;
 ro=1000;
 d=1.6; %diametro do rudder
