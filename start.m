@@ -16,4 +16,11 @@ mrudder=1000; %massa Rudder em kg
 Res1=1;
 Res2=1;
 
+HydraulicPressure=10^5; %Pa
+ValvePassageMaximumArea=4.05*10^(-5); %m2
+PistonArea=4*10^(-3); % m²
+PistonStroke=0.6; %m
+PistonMass=4; %kg
+
+
 %Table 5
