@@ -27,5 +27,7 @@ PistonArea=4*10^(-3); % m²
 PistonStroke=0.6; %m
 PistonMass=4; %kg
 
+angle2Voltage=24/30;
 
+Kp=1;
 %Table 5
