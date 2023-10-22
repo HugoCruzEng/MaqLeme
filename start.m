@@ -16,8 +16,8 @@ mrudder=50; %massa Rudder em kg
 Res1=1; %ohm
 Res2=1; %ohm
 Res3=1; %ohm
-Res4=1; %ohm
-Res5=15; %ohm
+Res4=10; %ohm
+Res5=1; %ohm
 Res6=1; %ohm
 Res7=1; %ohm
 
