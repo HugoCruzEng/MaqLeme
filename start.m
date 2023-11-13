@@ -31,3 +31,7 @@ angle2Voltage=24/30;
 
 Kp=1;
 %Table 5
+
+%Disturbio
+L=10;
+Sw=50;
